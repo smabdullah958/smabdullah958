@@ -1,16 +1,102 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Syed Muhammad Abdullah</h1>
+<h3 align="center">Full Stack MERN Developer | Next.js Developer | AI Learner</h3>
 
-<!--
-**smabdullah958/smabdullah958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate **Full Stack MERN Developer** with almost **1 year of hands-on experience** building modern, scalable, and real-world web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have completed **10+ real projects**, including:
+- Complaint Management System  
+- E-Commerce Website  
+- Product Management System  
+- Tourism Website  
+- Mini CRM  
+- And more...
+
+Currently, I am pursuing a **Bachelor in Computer Science (BSCS)** at the University of Peshawar and actively building full-stack apps using **React, Next.js, Node.js, Express, and MongoDB**.
+
+---
+
+## 🏢 Professional Experience
+
+### 🔹 **TargLabs (Aug — Nov 30)**  
+Full Stack Developer Intern  
+- Working on real-world MERN stack projects  
+- Collaborating with a professional dev team  
+- Improving problem-solving & industry-level development
+
+### 🔹 **Fluxxion (June 14 — Aug 14)**  
+Frontend + Full Stack Intern  
+- Created 3 complete real-world projects  
+- Gained hands-on experience in UI/UX + frontend logic
+
+### 🔹 **NovaDev Studios (June 20 — Aug 1)**  
+Remote Developer (E-Commerce Project)  
+- Built a full eCommerce T-shirt store  
+- Implemented product management, carts, orders, payments
+
+### 🔹 **Self Employed (April 1 — June 1)**  
+Full Stack Developer  
+- Created full Complaint Management System  
+- Built multiple production-level projects
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- React.js  
+- Next.js  
+- Tailwind CSS  
+- Redux Toolkit  
+
+### **Backend**
+- Node.js  
+- Express.js  
+
+### **Database**
+- MongoDB  
+- Mongoose  
+
+### **Tools & Platforms**
+- Git & GitHub  
+- Postman  
+- Vercel  
+- Netlify  
+
+---
+
+## 🔥 Featured Projects
+
+### 🟣 **Ibn Sahra Travels — Tourism Booking Platform**
+A full booking and travel management platform.  
+**Tech:** Next.js, React, Tailwind, Redux Toolkit, Node, Express, MongoDB  
+🔗 Live: https://ibnsahratravels.vercel.app/
+
+---
+
+### 🟢 **Complaint Management System**
+Role-based dashboards for Students, HOD, Principal with real-time status updates.  
+**Tech:** React, Tailwind, Node, Express, MongoDB  
+🔗 Frontend: github.com/smabdullah958/CMS_Frontend  
+🔗 Backend: github.com/smabdullah958/CMS_Backend  
+
+---
+
+### 🔵 **E-Commerce Website (T-Shirt Business)**
+Role-based ecommerce with admin dashboard, analytics, cart, orders.  
+**Tech:** React, Tailwind, Recharts, Node, Express, MongoDB  
+🔗 GitHub: https://github.com/smabdullah958/Ecommerce_Website  
+
+---
+
+## 📫 Connect With Me
+- 🌐 Portfolio: https://smabdullah.netlify.app/  
+- 📧 Email: **smabdulla958@gmail.com**  
+- 📱 Phone: **+92 0315-8239364**  
+- 🏙 Peshawar, Pakistan  
+
+---
+
+⭐ **If you like my work, feel free to star my repositories!**  
