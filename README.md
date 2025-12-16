@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Syed Muhammad Abdullah</h1>
-<h3 align="center">Full Stack MERN Developer | Next.js Developer | AI Learner</h3>
+<h3 align="center">Full Stack MERN Developer | Next.js Developer </h3>
 
 ---
 
