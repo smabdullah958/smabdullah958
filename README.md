@@ -72,7 +72,7 @@ Full Stack Developer
 ### 🟣 **Ibn Sahra Travels — Tourism Booking Platform**
 A full booking and travel management platform.  
 **Tech:** Next.js, React, Tailwind, Redux Toolkit, Node, Express, MongoDB  
-🔗 Live: https://ibnsahratravels.vercel.app/
+🔗 Live: http://toursite.site/
 
 ---
 
