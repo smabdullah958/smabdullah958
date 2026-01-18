@@ -7,6 +7,7 @@
 I'm a passionate **Full Stack MERN Developer** with almost **1 year of hands-on experience** building modern, scalable, and real-world web applications.
 
 I have completed **10+ real projects**, including:
+-  PDF Summary Generator
 - Complaint Management System  
 - E-Commerce Website  
 - Product Management System  
