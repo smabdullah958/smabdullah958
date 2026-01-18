@@ -69,10 +69,19 @@ Full Stack Developer
 
 ## 🔥 Featured Projects
 
+### 🔵 **PDF Summary Generator**
+• AI-powered web application that allows users to upload PDF documents and generate concise summaries
+• Extracts text from PDFs and processes it using AI for accurate summarization
+• Supports different summary formats (paragraph / bullet points)
+• Clean and responsive UI built with Next.js and Tailwind CSS
+• Deployed on Vercel for fast and reliable access
+**🔗Live Link:** https://pdf-summary-generator.vercel.app/
+**GitHub Link:** https://github.com/smabdullah958/PDF_Summary
+
 ### 🟣 **Ibn Sahra Travels — Tourism Booking Platform**
 A full booking and travel management platform.  
 **Tech:** Next.js, React, Tailwind, Redux Toolkit, Node, Express, MongoDB  
-🔗 Live: http://toursite.site/
+**🔗 Live:** http://toursite.site/
 
 ---
 
