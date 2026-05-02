@@ -59,7 +59,7 @@ Git • GitHub • Postman • Vercel • Netlify
 ### 🌍 Ibn Sahra Travels — Tourism Platform
 **Problem:** Complex booking workflows for travelers and agencies.  
 **Solution:** A full-scale booking platform with transport selection, destination management, and secure seat reservation logic.  
-**🔗 [Live Demo](http://toursite.site/) | [GitHub Repo](https://github.com/smabdullah958/Ibnsahratravels)**
+**🔗 [Live Demo](http://toursite.site/) | [GitHub Repo](https://github.com/smabdullah958/Toursite_App)**
 
 ### 📈 Humexa Adnest — Marketing Agency Site
 **Problem:** Agencies need ultra-fast, high-converting landing pages to lower ad costs.  
