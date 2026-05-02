@@ -1,112 +1,88 @@
 <h1 align="center">👋 Hi, I'm Syed Muhammad Abdullah</h1>
-<h3 align="center">Full Stack MERN Developer | Next.js Developer </h3>
+<h3 align="center">AI-Powered MERN Stack Developer | GenAI Integration Specialist</h3>
 
 ---
 
 ## 🚀 About Me
-I'm a passionate **Full Stack MERN Developer** with almost **1 year of hands-on experience** building modern, scalable, and real-world web applications.
+I am an **AI-Powered MERN Stack Developer** focused on building intelligent, scalable applications. With **6+ real-world projects**, including AI-based applications and real client work, which has helped me gain strong hands-on experience in both frontend and backend development.
 
-I have completed **10+ real projects**, including:
--  PDF Summary Generator
-- Complaint Management System  
-- E-Commerce Website  
-- Product Management System  
-- Tourism Website  
-- Mini CRM  
-- And more...
-
-Currently, I am pursuing a **Bachelor in Computer Science (BSCS)** at the University of Peshawar and actively building full-stack apps using **React, Next.js, Node.js, Express, and MongoDB**.
-
----
 
 ## 🏢 Professional Experience
 
-### 🔹 **TargLabs (Aug — Nov 30)**  
+### 🔹 TargLabs (Aug — Nov 30)
 Full Stack Developer Intern  
-- Working on real-world MERN stack projects  
-- Collaborating with a professional dev team  
-- Improving problem-solving & industry-level development
+- Worked on real-world MERN stack applications  
+- Collaborated with development team on production-level projects  
+- Improved backend architecture and API development skills  
 
-### 🔹 **Fluxxion (June 14 — Aug 14)**  
+### 🔹 Fluxxion (June 14 — Aug 14)
 Frontend + Full Stack Intern  
-- Created 3 complete real-world projects  
-- Gained hands-on experience in UI/UX + frontend logic
+- Built multiple responsive web applications  
+- Gained experience in UI/UX design and frontend logic  
 
-### 🔹 **NovaDev Studios (June 20 — Aug 1)**  
+### 🔹 NovaDev Studios (June 20 — Aug 1)
 Remote Developer (E-Commerce Project)  
-- Built a full eCommerce T-shirt store  
-- Implemented product management, carts, orders, payments
-
-### 🔹 **Self Employed (April 1 — June 1)**  
-Full Stack Developer  
-- Created full Complaint Management System  
-- Built multiple production-level projects
+- Developed a complete T-shirt eCommerce platform  
+- Implemented cart, product, and order management system  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
-- React.js  
-- Next.js  
-- Tailwind CSS  
-- Redux Toolkit  
+### Frontend
+React.js • Next.js • Tailwind CSS • Redux Toolkit  
 
-### **Backend**
-- Node.js  
-- Express.js  
+### Backend
+Node.js • Express.js  • MongoDB
 
-### **Database**
-- MongoDB  
-- Mongoose  
+### AI/LLM
+OpenAi • Google Gemini  • LangChain •Vector Database
 
-### **Tools & Platforms**
-- Git & GitHub  
-- Postman  
-- Vercel  
-- Netlify  
+### Tools
+Git • GitHub • Postman • Vercel • Netlify  
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Projects 
 
-### 🔵 **PDF Summary Generator**
-• AI-powered web application that allows users to upload PDF documents and generate concise summaries
-• Extracts text from PDFs and processes it using AI for accurate summarization
-• Supports different summary formats (paragraph / bullet points)
-• Clean and responsive UI built with Next.js and Tailwind CSS
-• Deployed on Vercel for fast and reliable access
-**🔗Live Link:** https://pdf-summary-generator.vercel.app/
-**GitHub Link:** https://github.com/smabdullah958/PDF_Summary
+### 🤖 AI Career Assistant
+**Problem:** Graduates waste 3+ hours on resumes but got not selected due to a ATS scor or if select it can  fail interviews due to lack of practice.  
+**Solution:** I have been build a comprehensive AI-powered platform that generates ATS-friendly resumes, conducts mock interviews (HR, Technical, CEO), and provides resume analysis with ATS scoring, strengths, weaknesses, and suggestions.  
+.  
+**🔗 [Live Demo](https://ai-career-assistant-lake.vercel.app/) | [GitHub Repo](https://github.com/smabdullah958/AI-Career-Assistant)**
 
-### 🟣 **Ibn Sahra Travels — Tourism Booking Platform**
-A full booking and travel management platform.  
-**Tech:** Next.js, React, Tailwind, Redux Toolkit, Node, Express, MongoDB  
-**🔗 Live:** http://toursite.site/
+### 📄 AI PDF Summarizer (Chat with Docs)
+**Problem:** Manual document review is time-consuming and inefficient.  
+**Solution:** AI-driven tool that summarizes complex PDFs in multiple languages and formats (Short/Long) in seconds and also ask question with a  pdf.  
+**🔗 [Live Demo](https://chatsummary.vercel.app/) | [GitHub Repo](https://github.com/smabdullah958/PdfSummary)**
+
+### 🌍 Ibn Sahra Travels — Tourism Platform
+**Problem:** Complex booking workflows for travelers and agencies.  
+**Solution:** A full-scale booking platform with transport selection, destination management, and secure seat reservation logic.  
+**🔗 [Live Demo](http://toursite.site/) | [GitHub Repo](https://github.com/smabdullah958/Ibnsahratravels)**
+
+### 📈 Humexa Adnest — Marketing Agency Site
+**Problem:** Agencies need ultra-fast, high-converting landing pages to lower ad costs.  
+**Solution:** SEO-optimized, high-performance agency site built for client lead generation and modern UI/UX standards.  
+**🔗 [Live Demo](https://www.humexaadnest.com) | [GitHub Repo](https://github.com/smabdullah958/humexaadnestPortfolio)**
+
+### 📦 World Link — Import Export Business
+**Problem:** International clients need clear, professional service presentation.  
+**Solution:** Business-grade platform showcasing global logistics, company profile, and international service catalogs.  
+**🔗 [Live Demo](https://world-link-company-orpin.vercel.app/) | [GitHub Repo](https://github.com/smabdullah958/world-link-company-)**
+
+### 📝 AI PDF Generator & Processor
+**Problem:** Inconsistent AI outputs when processing large-scale text.  
+**Solution:** Advanced AI summarization tool featuring adjustable length logic and structured AI output processing.  
+**🔗 [Live Demo](https://pdf-summary-generator.vercel.app/) | [GitHub Repo](https://github.com/smabdullah958/PDF_Summary_Generator)**
 
 ---
 
-### 🟢 **Complaint Management System**
-Role-based dashboards for Students, HOD, Principal with real-time status updates.  
-**Tech:** React, Tailwind, Node, Express, MongoDB  
-🔗 Frontend: github.com/smabdullah958/CMS_Frontend  
-🔗 Backend: github.com/smabdullah958/CMS_Backend  
-
----
-
-### 🔵 **E-Commerce Website (T-Shirt Business)**
-Role-based ecommerce with admin dashboard, analytics, cart, orders.  
-**Tech:** React, Tailwind, Recharts, Node, Express, MongoDB  
-🔗 GitHub: https://github.com/smabdullah958/Ecommerce_Website  
-
----
 
 ## 📫 Connect With Me
-- 🌐 Portfolio: https://smabdullah.netlify.app/  
-- 📧 Email: **smabdulla958@gmail.com**  
-- 📱 Phone: **+92 0315-8239364**  
-- 🏙 Peshawar, Pakistan  
+- 🌐 **Portfolio:** [smabdullah.netlify.app](https://smabdullah.netlify.app/)  
+- 📧 **Email:** smabdulla958@gmail.com  
+- 🏙 **Location:** Peshawar, Pakistan
 
 ---
-
-⭐ **If you like my work, feel free to star my repositories!**  
+⭐ **Check out my repositories and let's build something smart together!**
