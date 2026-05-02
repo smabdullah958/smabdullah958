@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Syed Muhammad Abdullah</h1>
-<h3 align="center">AI-Powered MERN Stack Developer | GenAI Integration Specialist</h3>
+<h3 align="center">AI-Powered MERN Stack Developer | Building Smart Full-Stack Web Applications</h3>
 
 ---
 
