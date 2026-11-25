@@ -17,21 +17,22 @@ I am an **AI-Powered MERN Stack Developer** focused on building intelligent, sca
 
 ## 🏢 Professional Experience
 
-### 🔹 TargLabs (Aug — Nov 30)
+### 🔹 culyte (July 2026 — Nov 2026)
+Full Stack Developer Intern  
+- Worked on real-world MERN stack applications  
+- Collaborated with development team , QA team on live projects  
+
+
+### 🔹 TargLabs (Aug 2025 — Nov 2025)
 Full Stack Developer Intern  
 - Worked on real-world MERN stack applications  
 - Collaborated with development team on production-level projects  
 - Improved backend architecture and API development skills  
 
-### 🔹 Fluxxion (June 14 — Aug 14)
+### 🔹 Fluxxion (June 2025 — Aug 14)
 Frontend + Full Stack Intern  
 - Built multiple responsive web applications  
 - Gained experience in UI/UX design and frontend logic  
-
-### 🔹 NovaDev Studios (June 20 — Aug 1)
-Remote Developer (E-Commerce Project)  
-- Developed a complete T-shirt eCommerce platform  
-- Implemented cart, product, and order management system  
 
 ---
 
@@ -59,25 +60,21 @@ Git • GitHub • Postman • Vercel • Netlify
 .  
 **🔗 [Live Demo](https://ai-career-assistant-lake.vercel.app/) | [GitHub Repo](https://github.com/smabdullah958/AI-Career-Assistant)**
 
-### 📄 AI PDF Summarizer (Chat with Docs)
-**Problem:** Manual document review is time-consuming and inefficient.  
-**Solution:** AI-driven tool that summarizes complex PDFs in multiple languages and formats (Short/Long) in seconds and also ask question with a  pdf.  
-**🔗 [Live Demo](https://chatsummary.vercel.app/) | [GitHub Repo](https://github.com/smabdullah958/PdfSummary)**
-
 ### 🌍 Ibn Sahra Travels — Tourism Platform
 **Problem:** Complex booking workflows for travelers and agencies.  
 **Solution:** A full-scale booking platform with transport selection, destination management, and secure seat reservation logic.  
 **🔗 [Live Demo](http://toursite.site/) | [GitHub Repo](https://github.com/smabdullah958/Toursite_App)**
 
+### 📄 AI PDF Summarizer (Chat with Docs)
+**Problem:** Manual document review is time-consuming and inefficient.  
+**Solution:** AI-driven tool that summarizes complex PDFs in multiple languages and formats (Short/Long) in seconds and also ask question with a  pdf.  
+**🔗 [Live Demo](https://chatsummary.vercel.app/) | [GitHub Repo](https://github.com/smabdullah958/PdfSummary)**
+
+
 ### 📈 Humexa Adnest — Marketing Agency Site
 **Problem:** Agencies need ultra-fast, high-converting landing pages to lower ad costs.  
 **Solution:** SEO-optimized, high-performance agency site built for client lead generation and modern UI/UX standards.  
 **🔗 [Live Demo](https://www.humexaadnest.com) | [GitHub Repo](https://github.com/smabdullah958/humexaadnestPortfolio)**
-
-### 📦 World Link — Import Export Business
-**Problem:** International clients need clear, professional service presentation.  
-**Solution:** Business-grade platform showcasing global logistics, company profile, and international service catalogs.  
-**🔗 [Live Demo](https://world-link-company-orpin.vercel.app/) | [GitHub Repo](https://github.com/smabdullah958/world-link-company-)**
 
 ### 📝 AI PDF Generator & Processor
 **Problem:** Inconsistent AI outputs when processing large-scale text.  
